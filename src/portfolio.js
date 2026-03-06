@@ -4,7 +4,7 @@
 
 import emoji from "react-easy-emoji";
 import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your file name for custom animation
-
+import adobeLogo from "./assets/images/Adobe_logo.jpg";
 // Splash Screen
 
 const splashScreen = {
@@ -156,7 +156,7 @@ const workExperiences = {
     {
       role: "Lead Software Engineer",
       company: "Adobe",
-      companylogo: require("./assets/images/Adobe_logo.jpg"),
+      companylogo: adobeLogo,
       date: "June 2017 – March 2024",
       desc: "Senior Software Engineer at Adobe developing automated testing frameworks and performance validation tools for font rendering systems used across Adobe Creative Cloud products.",
       
@@ -240,7 +240,7 @@ const achievementSection = {
       title: "Kudos Award",
       subtitle:
         "Awarded with “Kudos” for excellent contribution in brainstorming validating the SVG font support feature in Cooltype",
-      image: require("./assets/images/Adobe_logo.jpg"),
+      image: adobeLogo,
       imageAlt: "Google Code-In Logo",
       footerLink: [
        
