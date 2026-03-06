@@ -156,7 +156,7 @@ const workExperiences = {
     {
       role: "Lead Software Engineer",
       company: "Adobe",
-      companylogo: adobeLogo,
+      companylogo: require("./assets/images/Ad.png"),
       date: "June 2017 – March 2024",
       desc: "Senior Software Engineer at Adobe developing automated testing frameworks and performance validation tools for font rendering systems used across Adobe Creative Cloud products.",
       
@@ -240,7 +240,7 @@ const achievementSection = {
       title: "Kudos Award",
       subtitle:
         "Awarded with “Kudos” for excellent contribution in brainstorming validating the SVG font support feature in Cooltype",
-      image: adobeLogo,
+      image: require("./assets/images/Ad.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
        
