@@ -4,7 +4,7 @@
 
 import emoji from "react-easy-emoji";
 import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your file name for custom animation
-import adobeLogo from "./assets/images/Adobe_logo.jpg";
+
 // Splash Screen
 
 const splashScreen = {
