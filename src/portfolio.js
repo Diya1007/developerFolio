@@ -48,7 +48,7 @@ const skillsSection = {
   title: "What I do",
   subTitle: "FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
-emoji("⚡ BExperience developing backend applications and APIs using Python and Java"),
+emoji("⚡ Experience developing backend applications and APIs using Python and Java"),
 emoji("⚡ Develop AI-powered applications and data-driven solutions using machine learning and analytics frameworks."),
 emoji("⚡ Create automation frameworks and testing solutions to improve software reliability and performance."),
 emoji("⚡ Use Git and modern development tools to collaborate on software projects.")
@@ -200,6 +200,10 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://airbnb-final.streamlit.app"
+        },
+        {
+          name: "Git URL",
+          url: "https://github.com/Diya1007/AirBnb_DS_Project"
         }
         //  you can add extra buttons here.
       ]
@@ -212,6 +216,10 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "http://nextu.se/"
+        },
+        {
+          name: "Git URL",
+          url: "https://github.com/"
         }
       ]
     }
