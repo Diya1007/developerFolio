@@ -15,7 +15,7 @@ export default function Footer() {
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
           Theme by{" "}
           <a
-            href=""
+            href="https://github.com/Diya1007"
             target="_blank"
             rel="noreferrer"
           >
